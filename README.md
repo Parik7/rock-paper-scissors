@@ -15,7 +15,6 @@ Displays the final winner or a tie after 5 rounds
 How to Play
 
 Open the project in your browser.
-Press F12 to open the console.
 Follow the prompts to enter your choice of "rock," "paper," or "scissors."
 The computer makes its choice randomly.
 
